@@ -1,0 +1,7 @@
+id_cliente,cedula,nombres,apellidos,correo,ciudad
+301,0912345678,Andrea,Salazar,andrea.salazar@example.com,Guayaquil
+302,1723456789,Miguel,Romero,miguel.romero@example.com,Quito
+303,0104567891,Camila,Jimenez,camila.jimenez@example.com,Cuenca
+304,0805678912,Andres,Morales,andres.morales@example.com,Esmeraldas
+305,1206789123,Isabella,Castillo,isabella.castillo@example.com,Quevedo
+306,2407891234,Diego,Espinoza,diego.espinoza@example.com,Salinas
